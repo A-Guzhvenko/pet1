@@ -24,7 +24,7 @@ PET1-project/
 │   ├── stack_fun.py             # Functions for tuning, calibration, and stacking.
 │   ├── get_metrics.py           # Functions for obtaining metrics.
 │
-├── data/                       # Raw and processed data
+├── data/                       # Raw and processed data (archive, unzip before running)
 │   ├── data.csv                 # Raw data.
 │   ├── df_base.csv              # Data for baseline algorithms and feature development.
 │   ├── df_eda_lat_lon.csv       # Intermediate data with geolocation information.
@@ -33,4 +33,3 @@ PET1-project/
 ├── requirements.txt            # Python dependencies.
 └── README.md                   # Project documentation.
 ```
->>>>>>> 8e6dfa8 (Initial commit: project setup)
